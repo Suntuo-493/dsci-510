@@ -4,9 +4,8 @@ This repo is for DSCI510 lab1.
 
 Information
 ------
-My name is Tuo Sun. My email address is tuosun@usc.edu
-
-
+* Name: Tuo Sun<br> 
+* Email address: tuosun@usc.edu<br>
 
 
 Invoke the file
